@@ -1,0 +1,12 @@
+apply from: '../parent.gradle'
+
+dependencies {
+	compile('org.myapp:module-b:1.0.0-SNAPSHOT') {changing = true }
+
+	testCompile ('org.myapp:module-b:1.0.0-SNAPSHOT:tests') {changing = true }
+	testCompile ('org.myapp:module-c:1.0.0-SNAPSHOT:tests') {changing = true }
+	testCompile ('org.myapp:module-d:1.0.0-SNAPSHOT:tests') {changing = true }
+
+    testCompile('org.junit.jupiter:junit-jupiter-api:5.3.1')
+    testRuntime('org.junit.jupiter:junit-jupiter-engine:5.3.1')
+}

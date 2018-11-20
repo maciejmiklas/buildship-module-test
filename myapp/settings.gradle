@@ -1,0 +1,6 @@
+rootProject.name = 'myapp'
+
+includeBuild '../module-a'
+includeBuild '../module-b'
+includeBuild '../module-c'
+includeBuild '../module-d'
