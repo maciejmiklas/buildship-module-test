@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="module-d" version="4">
+  <OBJECT>
+    <ID name="module-d" mc="Standard.Artifact" uid="03c7bae1-477c-47fa-a9ba-ff118bc3404e"/>
+    <PID name="mymodule" mc="Standard.Package" uid="3c0c905e-3720-4a5c-bf43-868b2de6eb46"/>
+    <ATTRIBUTES>
+      <ATT name="FileName"></ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[module-d]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

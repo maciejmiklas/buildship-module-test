@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="module-d" version="4">
+  <OBJECT>
+    <ID name="module-d" mc="Standard.Package" uid="8e53e5bb-5bc8-4dd7-aa39-bb77c3cadce2"/>
+    <PID name="mymodule" mc="Standard.Package" uid="3c0c905e-3720-4a5c-bf43-868b2de6eb46"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[module-d]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="AbstractDTestcase" mc="Standard.Class" uid="55c77111-e604-4c15-81dc-08fe2bff3d52"/>
+        <COMPID name="ModDTest" mc="Standard.Class" uid="d81580e3-dcb9-4d45-bd82-455627c39855"/>
+        <COMPID name="ServiceD" mc="Standard.Class" uid="0f93daa3-7170-42c5-a881-cb1dfd63d9b0"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

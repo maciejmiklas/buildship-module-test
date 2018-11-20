@@ -1,0 +1,7 @@
+#Tue Nov 20 16:24:21 CET 2018
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///Users/mmiklas/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///Users/mmiklas/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
+org.modelio.diagram.editor.OpenedDiagrams1='mymodule Deployment diagram' {e89f0653-5ab1-4bba-8036-0c835c8c4395} Standard.DeploymentDiagram
+org.modelio.diagram.editor.OpenedDiagrams0='tests Class diagram' {af7dd7cd-e747-4465-b545-79562f563da5} Standard.ClassDiagram
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///Users/mmiklas/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///Users/mmiklas/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
